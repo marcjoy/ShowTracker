@@ -1,0 +1,5 @@
+1. GetShows returns all show names, parameter not needed.
+2. GetVenues returns all venue names, parameter not needed.
+3. GetArtist returns all artist by name, parameter not needed.
+4. GetShowByVenue returns all shows for a given venue name, venue name necessary as parameter.
+5. GetShowByArtist returns all shows for a given artist name, artist name necessary as parameter.
